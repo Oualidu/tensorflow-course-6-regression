@@ -1,6 +1,8 @@
-tensorflow
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+
+
+Python
+TensorFlow / Keras
+Pandas, NumPy
+Scikit-learn
+Google Colab
+Flask (pour le déploiement)
